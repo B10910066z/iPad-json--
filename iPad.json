@@ -1,0 +1,9 @@
+{"ipad":
+    [
+        { "color": "space-gray", "storage": 256, "network": "WI-FI+行動網路", "price": 19900},
+        { "color": "blue", "storage": 256, "network": "WI-FI+行動網路", "price": 19900 },
+        { "color": "pink", "storage": 256, "network": "WI-FI+行動網路", "price": 19900 },
+        { "color": "purple", "storage": 256, "network": "WI-FI+行動網路", "price": 19900 },
+        { "color": "starlight", "storage": 256, "network": "WI-FI+行動網路", "price": 19900 }
+    ]
+}
