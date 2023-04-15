@@ -6,4 +6,7 @@
         { "color": "purple", "storage": 256, "network": "WI-FI+行動網路", "price": 19900 },
         { "color": "starlight", "storage": 256, "network": "WI-FI+行動網路", "price": 19900 }
     ]
-}
+},
+{"color":["space-gray", "blue", "pink", "purple", "starlight"]},
+{"storage":[64, 256]},
+{"network":["WIFI", "WI-FI+行動網路"]}
